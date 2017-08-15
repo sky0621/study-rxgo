@@ -1,0 +1,8 @@
+package: github.com/sky0621/study-rxgo
+import:
+- package: github.com/reactivex/rxgo
+  subpackages:
+  - errors
+  - iterable
+  - observable
+  - observer
